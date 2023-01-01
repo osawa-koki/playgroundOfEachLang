@@ -1,1 +1,6 @@
-# https://osawa-koki.github.io/playgroundOfEachLang/
+# playgroundOfEachLang
+
+プログラミング言語ごとのオススメのplaygroundサイトをまとめた。  
+
+久しぶりにJQuery使ってみた。  
+懐かしい、、、  
