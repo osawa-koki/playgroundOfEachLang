@@ -1,0 +1,10 @@
+{
+  "name": "playgroundOfEachLang",
+  "version": "1.0.0",
+  "description": "プログラミング言語ごとのオススメのplaygroundサイトをまとめた。",
+  "main": "index.js",
+  "repository": "https://github.com/osawa-koki/playgroundOfEachLang.git",
+  "author": "osawa-koki <github@osawa.dev>",
+  "license": "Apache-2.0",
+  "private": false
+}
