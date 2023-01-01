@@ -1,1 +1,3 @@
-# https://osawa-koki.github.io/playgroundOfEachLang/
+# playgroundOfEachLang
+
+プログラミング言語ごとのオススメのplaygroundサイトをまとめた。  
