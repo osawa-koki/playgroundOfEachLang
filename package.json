@@ -7,8 +7,5 @@
   "author": "osawa-koki <github@osawa.dev>",
   "license": "Apache-2.0",
   "private": false,
-  "dependencies": {
-    "bootstrap": "^5.2.3",
-    "jquery": "^3.6.3"
-  }
+  "dependencies": {}
 }
